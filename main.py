@@ -10,4 +10,6 @@ import random
 def test_function():
     flip = random.random()
     if flip < 0.5:
-        
+        print('Heads')
+    else:
+        print('Tales')
