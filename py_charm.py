@@ -4,3 +4,10 @@ def main_function():
         print("sowwy:(")
     else:
         print("yay!")
+
+
+import random
+
+
+def test_function():
+    flip = random.random()
